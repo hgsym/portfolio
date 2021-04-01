@@ -1,0 +1,22 @@
+header {
+height: 500px;
+background-image: url("img/daisy.png");
+background-size: cover;
+}
+header h1{
+color: white;
+}
+body {
+  background-color: seashell;
+  margin: auto;
+  width: 80%;
+  text-align: center;
+}
+header ul {
+  padding: 0;
+}
+header li {
+  list-style: none;
+  display: inline;
+  padding: 10px;
+}
